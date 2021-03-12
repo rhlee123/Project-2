@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/rhlee123/Project-2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+# Project 2: Regularization Techniques
+## Introduction
+  In this project, I explored the use of five different regularization techniques: LASSO, Ridge, Elastic Net, SCAD (Smoothly-Clipped Absolute Deviation), and Square Root Lasso. For 3 different datasets, I fit multivariate linear models using the aforementioned regularization techniques and compared the MAE (Mean Absolute Error) of the predictions of these models to the MAE of a baseline multiple linear regression. Comparing the values of the loss function MAE between the different regularization methods and a baseline model allow the ability to draw conclusions about the effectiveness of certain regularization methods on a particular dataset. The regularized model that results in the lowest MAE would be the model that is most effective in minimizing error values. 
+  
+  The datasets explored in this project are: Boston Housing Price, Sale Price of Car, and a simulated dataset.
+### Background 
+  Regularization methods are used to determine the weights for features within a model, and depending on the regularization technique, features can be excluded altogether from the model by having a weight of 0. Further, regularization is the process of of regularizing 
+  
+  Regularization methods are especially useful in reducing the risk of overfitting. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
