@@ -140,9 +140,6 @@ def dscad(beta):
 Applying SCAD:
 ```python 
 p = X.shape[1]
-![jkiyutyfcgvhbkjnkihyguh](https://user-images.githubusercontent.com/55299814/111017627-b1636380-8382-11eb-9ef2-94c4dec4f98f.png)
-![jkiyutyfcgvhbkjnkihyguh](https://user-images.githubusercontent.com/55299814/111017634-b4f6ea80-8382-11eb-9116-a7aa5f250a85.png)
-![jkiyutyfcgvhbkjnkihyguh](https://user-images.githubusercontent.com/55299814/111017654-cc35d800-8382-11eb-8740-47a8c3fe72f9.png)
 b0 = np.random.normal(1,1,p)
 lam = 1
 a = 2
