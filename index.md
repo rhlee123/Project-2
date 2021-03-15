@@ -63,9 +63,7 @@ All data used in comparing the regularization techniques are standardized, and w
 
 ## Code for finding the MAE of different regularized linear models and implementing different reguralization techniques in python for boston housing dataset: 
 Basic imports:
-```python ![jkiyutyfcgvhbkjnkihyguh](https://user-images.githubusercontent.com/55299814/111017606-90027780-8382-11eb-8f78-034ea50ce823.png)
-
-![jkiyutyfcgvhbkjnkihyguh](https://user-images.githubusercontent.com/55299814/111017611-9bee3980-8382-11eb-84d6-7deb79defcb4.png)
+```python
 import numpy as np
 import pandas as pd
 from math import ceil
